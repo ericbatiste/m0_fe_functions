@@ -66,6 +66,6 @@ var friends = ["Emily", "Andrew", "Millie", "Lara", "Scotty"];
 friends.forEach((friend) => console.log(friend[0]));
 
 // The sort() method rearranges the items in the array, in this case alphebetically.
-// The return value is ['Collings', 'Fender', 'Gibson', 'Martin']
+// The return value is ['Collings', 'Fender', 'Gibson', 'Gretsch', 'Martin']
 var guitars = ["Fender", "Gibson", "Martin", "Collings", "Gretsch"];
 console.log(guitars.sort());
